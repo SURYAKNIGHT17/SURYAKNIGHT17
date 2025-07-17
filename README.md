@@ -60,7 +60,6 @@ Built a working LSTM-based predictor using a 1 lakh+ row dataset to forecast sol
 ## 🏆 Achievements
 - Secured **4th place** in my college Hackathon! 🎉
 - Successfully completed multiple end-to-end projects
-- Active contributor to open-source projects
 
 ---
 
